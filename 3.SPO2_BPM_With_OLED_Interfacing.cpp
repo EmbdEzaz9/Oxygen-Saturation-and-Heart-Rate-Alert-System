@@ -15,7 +15,7 @@ PulseOximeter pox;
 // WiFi and Blynk Auth Credentials
 char auth[] = "b1vu48_RNOjhdfo5eAzcAUb53J2Zl3L9";  // Blynk Auth Token
 char ssid[] = "iPhone";                           // Wi-Fi SSID
-char pass[] = "Ezaz@emd9";                        // Wi-Fi Password
+char pass[] = "Asdf@fghj";                        // Wi-Fi Password
 
 float BPM, SpO2;
 uint32_t tsLastReport = 0;
