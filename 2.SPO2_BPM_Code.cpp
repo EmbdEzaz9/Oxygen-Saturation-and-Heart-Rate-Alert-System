@@ -1,13 +1,9 @@
-
 /*## What Does This program:
--->Connects to a Wi-Fi network.
-
--->Initializes a MAX30100 Pulse Oximeter sensor to read:
+i)Connects to a Wi-Fi network.
+ii)Initializes a MAX30100 Pulse Oximeter sensor to read:
 Heart Rate (BPM)
 Blood Oxygen Saturation (SpO2)
-
--->Sends the sensor data to Ubidots using the MQTT protocol.  ##*/
-
+iii)Sends the sensor data to Ubidots using the MQTT protocol.  ##*/
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
