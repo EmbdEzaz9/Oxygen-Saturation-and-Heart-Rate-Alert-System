@@ -13,7 +13,7 @@ iii)Sends the sensor data to Ubidots using the MQTT protocol.  ##*/
 
 // Wi-Fi and MQTT Settings
 #define WIFISSID            "iPhone"
-#define PASSWORD            "Ezaz@4321"
+#define PASSWORD            "Asdf@ghjkl"
 #define TOKEN               "BBFF-fN7qYkwBkSlrdyu9Vlr2sRGDIK5Cl9"
 #define DEVICE_LABEL        "oxygen-saturation-monitor"
 #define VARIABLE_LABEL_1    "HeartRate"
